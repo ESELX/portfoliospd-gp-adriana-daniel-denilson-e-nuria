@@ -26,11 +26,11 @@ members:
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome          |
+| ------- | ------------- |
+| 2024316 | Adriana Gomes |
+| 20YYYYY | Aluno B       |
+| 20ZZZZZ | Aluno C       |
 
 ---
 
