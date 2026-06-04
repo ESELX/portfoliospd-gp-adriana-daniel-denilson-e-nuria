@@ -2,7 +2,7 @@
 title: Nome do Grupo
 icon: lucide/users
 tags: galeria
-status: not-started
+status: started
 hero_image: attachments/hero.jpg
 hero_title: Nome do Grupo
 hero_subtitle: Prototipagem Digital · 2025-26
