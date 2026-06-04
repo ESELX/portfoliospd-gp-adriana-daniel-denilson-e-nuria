@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Prototipagem Digital · 2025-26"
+hero_title: Nome do Grupo
+hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
-published: true
-course: "PrototipagemDigital"
+published: false
+course: PrototipagemDigital
 group_name: ""
 group_number: ""
 members:
