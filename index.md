@@ -9,7 +9,7 @@ hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
-published: false
+published: true
 course: PrototipagemDigital
 group_name: ""
 group_number: ""
