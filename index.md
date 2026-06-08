@@ -72,8 +72,8 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <div class="gallery-grid">
 
   <a class="gallery-card" href="Projeto Individual - Adriana/_modelo_Adriana/">
-    <img src="Projeto Individual - Adriana/_modelo_Adriana/attachments/hero.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
+    <img src="Projeto Individual - Adriana/_modelo_Adriana/attachments/DiHero2.png" alt="" />
+    <h3>Nexo</h3>
     <p>Adriana Gomes</p>
   </a>
   <a class="gallery-card" href="Projeto Individual - Daniel/_modelo_Daniel/">
