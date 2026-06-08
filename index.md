@@ -86,7 +86,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <h3>Nome do Projeto</h3>
     <p>Nome do Aluno</p>
   </a>
-    <a class="gallery-card" href="experiencias1 1 1/_modelo_Nuria/">
+    <a class="gallery-card" href="experiencias 1 1 1/_modelo_Nuria/">
     <img src="experiencias/_modelo_Nuria/attachments/hero.jpg" alt="" />
     <h3>Nome do Projeto</h3>
     <p>Nome do Aluno</p>
