@@ -71,11 +71,25 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="experiencias/_modelo/">
-    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="experiencias/_modelo_Adriana/">
+    <img src="experiencias/_modelo_Adriana/attachments/hero.jpg" alt="" />
     <h3>Nome do Projeto</h3>
     <p>Nome do Aluno</p>
   </a>
+  <a class="gallery-card" href="experiencias/_modelo_Daniel/">
+    <img src="experiencias/_modelo_Daniel/attachments/hero.jpg" alt="" />
+    <h3>Nome do Projeto</h3>
+    <p>Nome do Aluno</p>
+  </a>
+    <a class="gallery-card" href="experiencias/_modelo_Denilson/">
+    <img src="experiencias/_modelo_Denilson/attachments/hero.jpg" alt="" />
+    <h3>Nome do Projeto</h3>
+    <p>Nome do Aluno</p>
+  </a>
+    <a class="gallery-card" href="experiencias/_modelo_Nuria/">
+    <img src="experiencias/_modelo_Nuria/attachments/hero.jpg" alt="" />
+    <h3>Nome do Projeto</h3>
+    <p>Nome do Aluno</p>
 
 </div>
 <!-- markdownlint-enable MD033 -->
