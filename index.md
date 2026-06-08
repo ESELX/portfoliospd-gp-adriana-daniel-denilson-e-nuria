@@ -71,25 +71,25 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="experiencias/_modelo_Adriana/">
-    <img src="experiencias/_modelo_Adriana/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="Projeto Individual - Adriana/_modelo_Adriana/">
+    <img src="Projeto Individual - Adriana/_modelo_Adriana/attachments/hero.jpg" alt="" />
     <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
+    <p>Adriana Gomes</p>
   </a>
-  <a class="gallery-card" href="experiencias 1/_modelo_Daniel/">
-    <img src="experiencias/_modelo_Daniel/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="Projeto Individual - Daniel/_modelo_Daniel/">
+    <img src="Projeto Individual - Daniel/_modelo_Daniel/attachments/hero.jpg" alt="" />
     <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
+    <p>Daniel Gonçalves</p>
   </a>
-    <a class="gallery-card" href="experiencias 1 1/_modelo_Denilson/">
-    <img src="experiencias/_modelo_Denilson/attachments/hero.jpg" alt="" />
+    <a class="gallery-card" href="Projeto Individual -Denilson/_modelo_Denilson/">
+    <img src="Projeto Individual - Denilson/_modelo_Denilson/attachments/hero.jpg" alt="" />
     <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
+    <p>Denilson Correia</p>
   </a>
-    <a class="gallery-card" href="experiencias 1 1 1/_modelo_Nuria/">
-    <img src="experiencias/_modelo_Nuria/attachments/hero.jpg" alt="" />
+    <a class="gallery-card" href="Projeto Individual - Nuria/_modelo_Nuria/">
+    <img src="Projeto Individual - Nuria/_modelo_Nuria/attachments/hero.jpg" alt="" />
     <h3>Nome do Projeto</h3>
-    <p>Nome do Aluno</p>
+    <p>Núria</p>
 
 </div>
 <!-- markdownlint-enable MD033 -->
