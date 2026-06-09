@@ -3,7 +3,7 @@ title: Nome do Projeto Individual
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/DiHero2.PNG
+hero_image: attachments/Dicapa.jpg
 hero_title: Nexo
 hero_subtitle: Adriana Gomes · 2025-26
 hero_height: 80vh
