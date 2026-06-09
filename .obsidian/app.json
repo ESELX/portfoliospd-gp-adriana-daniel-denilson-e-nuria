@@ -5,5 +5,6 @@
   "attachmentFolderPath": "./attachments",
   "newLinkFormat": "relative",
   "promptDelete": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "newFileLocation": "root"
 }
