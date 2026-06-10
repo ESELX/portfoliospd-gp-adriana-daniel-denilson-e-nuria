@@ -17,7 +17,7 @@ student_number: ""
 # Nexo
 
 ![](attachments/Dihero2.png)
-
+[^1]
 ##### Ligacão entre a Mente e o Movimento 
 
 ## Conceito
@@ -81,6 +81,7 @@ Vistas Ortogonais
 
 **O que aprendi:*** 
 Durante a disciplina de Prototipagem aprendi a desenvolver e testar ideias através da criação de protótipos, utilizando ferramentas de modelação e impressão 3D. Compreendi a importância da experimentação, da resolução de problemas e da melhoria contínua para alcançar um produto funcional e adequado às necessidades do utilizador. Esta experiência permitiu-me adquirir competências técnicas e uma melhor compreensão do processo de desenvolvimento de produto.
+
 **(ENG)** During the Prototyping course, I learned to develop and test ideas by creating prototypes using 3D modeling and printing tools. I understood the importance of experimentation, problem-solving, and continuous improvement to achieve a functional product that meets user needs. This experience allowed me to acquire technical skills and a better understanding of the product development process.
 
 ![](attachments/Prototipagem-processo3D-01%201.jpg)
@@ -93,6 +94,8 @@ Imagens bem produzidas do produto/objeto/intervenção final, com texto explicat
 ![](attachments/Dicapa.jpg)
 ![](attachments/Final.jpg)
 Este projeto consiste em discos modulares impressos em 3D para gestão do stress e ansiedade através do toque. O objeto convida à interação constante com os dedos  rotação, pressão, manipulação transformando impulsos nervosos comuns (mexer nas mãos, rodar objetos) numa ferramenta de autorregulação tátil. O design circular remete para equilíbrio e continuidade, e o tamanho reduzido torna-o discreto e portátil. A interação repetitiva promove foco e presença, criando pausas mentais no dia a dia.
+
+**(ENG)** This project consists of 3D-printed modular discs for stress and anxiety management through touch. The object invites constant interaction with the fingers – rotation, pressure, manipulation – transforming common nerve impulses (fidgeting, rotating objects) into a tool for tactile self-regulation. The circular design suggests balance and continuity, and its small size makes it discreet and portable. Repetitive interaction promotes focus and presence, creating mental pauses in daily life.
 ## Reflexão
 O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
 ![](attachments/Relflexão_Protoripagem.jpg)**(PT)** Numa próxima iteração, aproveitaria a máquina **Silhouette** para complementar o projeto de uma forma que não foi possível concretizar nesta fase. A ideia seria criar uma embalagem para o objeto, selada com um **sticker personalizado** produzido na Silhouette.
@@ -100,3 +103,5 @@ Este elemento de packaging acrescentaria uma dimensão importante ao projeto, tr
 
 **(ENG)**  In a future iteration, I would use the Silhouette machine to complement the project in a way that wasn't possible to achieve at this stage. The idea would be to create a packaging box for the object, sealed with a custom sticker produced on the Silhouette.
 This packaging element would add an important dimension to the project, transforming not only the object itself, but also the experience of receiving and opening it. A sticker with the logo or a graphic element of the project would act as an identity seal, making the packaging more carefully crafted, cohesive, and intentional.
+
+[^1]: Imagem gerada pela aplicação Pletor.Ai 
