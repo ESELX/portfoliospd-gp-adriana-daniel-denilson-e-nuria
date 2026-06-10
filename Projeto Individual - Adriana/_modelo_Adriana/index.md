@@ -44,9 +44,7 @@ Uma ou mais tecnologias estudadas em laboratório:
 - [ ] Outras —
 
 Materiais, software, ficheiros técnicos.
-
-##
-Processo
+## Processo 
 ![](attachments/DiEsboço.jpg)
 > ###### Exploração da Forma/exploration of form
 
