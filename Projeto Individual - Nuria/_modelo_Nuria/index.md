@@ -201,7 +201,7 @@ The model had a flaw on the bottom that caused the 3D printer to be unable to fu
 
 **PT** - Decidi também pintar o objeto, comecei por adicionar camadas de tinta branca e depois adicionei a cor. Após selar a tinta, já pode ser utilizado!
 
-**EN** - I also decided to pain the object, I started by adding layers of ehite paint and then added the color. After sealing the paint, it's ready to be used!
+**EN** - I also decided to paint the object, I started by adding layers of ehite paint and then added the color. After sealing the paint, it's ready to be used!
 
 ![](attachments/Pasted%20image%2020260609163007.png)
 ![](attachments/Pasted%20image%2020260609163015.png)
@@ -209,12 +209,23 @@ The model had a flaw on the bottom that caused the 3D printer to be unable to fu
 
 ## Resultado Final / Final Result
 
-Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
+**PT** - Resultado final com imagens demonstrativas da utilização do objeto como vaso de suculentas. As imagens permitem ver o seu aspeto final em contexto de utilização e a forma como a planta é acomodada no interior do vaso.
+
+**EN** - The final result with illustrative images showing the use of the object as a succulent pot. The images show its final look in a usage context as well as the way the plant is accommodated inside the vase.
 
 ![](attachments/Pasted%20image%2020260609163735.png)
 
 
-
 ## Reflexão
 
-O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+**PT** - Numa próxima iteração, utilizaria o Fusion360 desde o início do processo de modelação. Durante o desenvolvimento do projeto percebi que este software oferece ferramentas mais adequadas para criar objetos destinados à impressão 3D, permitindo um maior controlo sobre as dimensões e a estrutura do modelo. 
+
+Também exploraria mais a fundo as funcionalidades de modelação paramétrica, que facilitam a realização de alterações e correções sem comprometer o restante trabalho e dedicaria mais tempo à verificação da geometria do modelo antes da impressão, de forma a identificar possíveis falhas e evitar problemas como os que ocorreram durante a primeira tentativa de impressão. 
+
+Esta experiência permitiu-me compreender melhor as limitações do processo e a importância de escolher as ferramentas mais adequadas para cada projeto.
+
+**EN** - In another iteration, I would use Fusion360 since the start of the modelling process. I realized during the process of the project that this software offers more adequate tools to create 3D printed objects, allowing more control over the dimensions and the structure of the model.
+
+I would also further explore the functionalities of parametric modelling, which would facilitate whatever changes and tweaks I would need to make without compromising the rest of my work and I would dedicate more time to verifying the geometry of the model before printing, as a way to identify potential flaws and avoid issues such as the ones that happened during my first attempt.
+
+This experience allowed me to further understand the limitations of the process and the importance of choosing the right tools for each project.
