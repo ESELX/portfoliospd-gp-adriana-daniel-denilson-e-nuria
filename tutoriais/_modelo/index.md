@@ -113,18 +113,18 @@ Que operações ainda têm de ser realizadas sobre o objeto produzido para chega
 
 ##### Softwares: 
 
-Bambu Studio →  bambulab.com/download/studio
-Bambu Handy (app móvel) → App Store / Google Play → 'Bambu Handy'
-Tinkercad →  tinkercad.com
-Fusion 360 (estudantes) →   autodesk.com/education/edu-software/overview
-Blender  → blender.org/download 
-PrusaSlicer (alternativa) → prusaslicer.net 
+<p>Bambu Studio →  bambulab.com/download/studio</p>
+<p> Bambu Handy (app móvel) → App Store / Google Play → 'Bambu Handy'</p>
+<p> Tinkercad →  tinkercad.com</p>
+<p>Fusion 360 (estudantes) →   autodesk.com/education/edu-software/overview</p>
+<p>Blender  → blender.org/download </p>
+<p>PrusaSlicer (alternativa) → prusaslicer.net </p>
 
 ##### Repositórios de Modelos 3D
 
-**MakerWorld (Bambu)**  → makerworld.com
-**Printables** →  (Prusa) printables.com 
-**Thingiverse** →   thingiverse.com 
-**Cults3D** → cults3d.com 
-**GrabCAD** → grabcad.com 
-**MyMiniFactory** →  myminifactory.com
+<p>MakerWorld (Bambu) → makerworld.com</p>
+<p> Printables→  (Prusa) printables.com </p>
+<p>Thingiverse →   thingiverse.com </p>
+<p>Cults3D→ cults3d.com </p>
+<p> GrabCAD → grabcad.com </p>
+<p>MyMiniFactory →  myminifactory.com</p>
