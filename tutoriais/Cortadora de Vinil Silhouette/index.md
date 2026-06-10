@@ -3,7 +3,7 @@ title: Cortadora de Vinil Silhouette
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/IMG_5006.jpg
 hero_title: Cortadora de Vinil Silhouette
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
