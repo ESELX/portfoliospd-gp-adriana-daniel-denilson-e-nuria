@@ -72,7 +72,7 @@ Processo
  (**ENG**) In Fusion, I was able to configure the thickness and size of my object, add textures, and round the corners.
 
 **Link Do Fusion**  [https://a360.co/4e9oZ0l](https://a360.co/4e9oZ0l)
-###### ![](attachments/Render%20Fusion%203D.jpg) Render 3d Fusion 360
+###### ![](attachments/Render%20Fusion%203D.jpg)
 
 ![601](attachments/vista%203d.jpg)
 Vistas Ortogonais 
