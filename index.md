@@ -51,8 +51,8 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
     <p>Tutorial detalhado</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/Cortadora de Vinil Silhouette/attachments/IMG_5006.jpeg" alt="" />
+  <a class="gallery-card" href="tutoriais/_vinilsilhouette/">
+    <img src="tutoriais/_vinilsilhouette/attachments/IMG_5006.jpeg" alt="" />
     <h3>Cortadora de Vinil Silhouette</h3>
     <p>Tutorial detalhado</p>
   </a>

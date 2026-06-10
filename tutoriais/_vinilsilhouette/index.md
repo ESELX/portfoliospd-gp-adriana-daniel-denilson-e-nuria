@@ -17,7 +17,7 @@ machine_name: ""
 
 > Frase-síntese: A cortadora de vinil Silhouette é um equipamento de fabrico digital que utiliza leitura de ficheiros vetoriais para realizar cortes precisos em materiais como vinil, papel ou películas, sendo amplamente utilizada em design gráfico, produção de sinalética, personalização de objetos e projetos artísticos e educativos que exigem recorte de alta precisão e reprodução fiel de formas.
 
-![](attachments/Maquina.WEBP)
+![](attachments/Maquina.webp)
 
 Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial CNC do Fablab Benfica como modelo: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>).
 
