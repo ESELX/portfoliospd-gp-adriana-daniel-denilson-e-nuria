@@ -3,7 +3,7 @@ title: Nome do Projeto Individual
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: Birdie Vase
 hero_subtitle: Núria Encarnação · 2025-26
 hero_height: 80vh

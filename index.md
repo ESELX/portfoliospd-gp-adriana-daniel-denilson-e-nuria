@@ -88,7 +88,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <p>Denilson Correia</p>
   </a>
     <a class="gallery-card" href="Projeto Individual - Nuria/_modelo_Nuria/">
-    <img src="Projeto Individual - Nuria/_modelo_Nuria/attachments/hero.jpg" alt="" />
+    <img src="Projeto Individual - Nuria/_modelo_Nuria/attachments/hero.png" alt="" />
     <h3>Birdie Vase</h3>
     <p>Núria</p>
 
