@@ -17,7 +17,7 @@ student_number: ""
 # Nexo
 
 ![](attachments/Dihero2.png)
-[^1]
+[^1]: Imagem gerada pela aplicação Pletor.Ai
 ##### Ligacão entre a Mente e o Movimento 
 
 ## Conceito
@@ -76,7 +76,7 @@ Processo
 
 ![601](attachments/vista%203d.jpg)
 Vistas Ortogonais 
-
+![](attachments/imageUtilização.jpg)
 ### Iteração 1 — [Processso + Objeto Finalizado]
 
 **O que aprendi:*** 
@@ -103,5 +103,3 @@ Este elemento de packaging acrescentaria uma dimensão importante ao projeto, tr
 
 **(ENG)**  In a future iteration, I would use the Silhouette machine to complement the project in a way that wasn't possible to achieve at this stage. The idea would be to create a packaging box for the object, sealed with a custom sticker produced on the Silhouette.
 This packaging element would add an important dimension to the project, transforming not only the object itself, but also the experience of receiving and opening it. A sticker with the logo or a graphic element of the project would act as an identity seal, making the packaging more carefully crafted, cohesive, and intentional.
-
-[^1]: Imagem gerada pela aplicação Pletor.Ai 
