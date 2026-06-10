@@ -1,11 +1,11 @@
 ---
-title: "Nome do Projeto Individual"
+title: Dois em Um
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Projeto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Dois em Um
+hero_subtitle: Daniel Gonçalves · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,40 +14,54 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Projeto Individual
+
+# Dois em Um
 
 > Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
 
-![](attachments/hero.jpg)
+![](attachments/LebreT.jpg)
 
-Frase-conceito: ideia central do projeto em uma linha.
+Frase-conceito:  Duas personagens, um conjunto de peças e inúmeras formas de criar. (O projeto foi criado no âmbito da unidade curricular de design de produto)
 
 ## Conceito
 
-Que ideia explora o projeto? Que problema ou pergunta o motivou? Tema é livre — pode ligar-se a outras UCs.
+(PT)
 
+Inspirado na fábula _A Lebre e a Tartaruga_, este brinquedo modular em madeira explora os conceitos de diversidade, transformação e criatividade através da construção. O conjunto é composto por peças de encaixe que permitem montar tanto a lebre como a tartaruga, assim como inúmeras variações formais entre ambas.
+
+A proposta incentiva a criança a reinterpretar as personagens da história, compreendendo que diferentes elementos podem dar origem a múltiplas soluções. Através da montagem e desmontagem das peças, desenvolvem-se competências motoras, perceção espacial e pensamento construtivo, promovendo simultaneamente uma aprendizagem lúdica baseada na experimentação.
+
+A combinação entre formas geométricas simples e referências figurativas cria um objeto que une narrativa, jogo e exploração, transformando uma fábula clássica numa experiência interativa e educativa.
+
+(ENG)
+
+Inspired by the fable _The Hare and the Tortoise_, this modular wooden toy explores the concepts of diversity, transformation, and creativity through construction. The set consists of interlocking pieces that can be assembled to create either the hare or the tortoise, as well as countless formal variations of both.
+
+The design encourages children to reinterpret the characters from the story, understanding how different elements can generate multiple solutions. Through assembling and disassembling the pieces, children develop motor skills, spatial awareness, and constructive thinking, while engaging in a playful learning experience based on experimentation.
+
+The combination of simple geometric forms and figurative references creates an object that brings together storytelling, play, and exploration, transforming a classic fable into an interactive and educational experience.
 ## Tecnologias Usadas
 
 Uma ou mais tecnologias estudadas em laboratório:
 
 - [ ] Corte 2D (laser / vinil)
 - [ ] Impressão 3D
-- [ ] CNC
+- [x] CNC
 - [ ] Micro:bit / computação física
 - [ ] Outras —
 
 Materiais, software, ficheiros técnicos.
 
 ## Processo
-
+![](attachments/esboços.jpg)
 Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 
 ### Iteração 1 — [título]
 
-**O que tentei:**
-**O que aprendi:**
+**O que tentei:** Vários locais para os encaixes até chegar aos ideais.
+**O que aprendi:** Novas formas de parametrização.
 
-![](attachments/hero.jpg)
+![](attachments/Prancha.jpg)
 
 ### Iteração 2 — [título]
 
@@ -57,9 +71,11 @@ Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 
 Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
+![](attachments/Desm.jpeg)
+![](attachments/compl.jpeg)
 
 ## Reflexão
 
-O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+Podia ter explorado mais profundamente diferentes formas de encaixe, não apenas como solução funcional, mas também como uma oportunidade para investigar variações formais e estruturais. Teria sido útil desenvolver mais testes experimentais, de modo a experimentar diferentes geometrias, tolerâncias e sistemas de ligação entre peças, permitindo perceber melhor como pequenas alterações influenciam o resultado final.
+
+Ao mesmo tempo, faria sentido ter usado mais a impressão 3D como ferramenta de experimentação. Para além de servir para produzir peças finais, poderia ter sido usada sobretudo para testar ideias de forma rápida e iterativa, fazendo várias versões com pequenas diferenças. Isso teria ajudado a perceber melhor o comportamento dos encaixes, a resistência das ligações e a relação entre o desenho digital e o objeto físico.
