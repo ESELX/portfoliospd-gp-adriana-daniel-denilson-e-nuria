@@ -46,7 +46,7 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <div class="gallery-grid">
 
   <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/Capa.JPG" alt="" />
+    <img src="tutoriais/_modelo/attachments/Capa.jpg" alt="" />
     <h3>Bambu Lab A1 mini</h3>
     <p>Tutorial detalhado</p>
   </a>
