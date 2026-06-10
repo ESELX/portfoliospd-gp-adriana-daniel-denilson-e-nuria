@@ -16,7 +16,7 @@ student_number: "2019244"
 
 # Birdie Vase
 
-![](attachments/hero.jpg)
+![](attachments/hero.png)
 
 Criar um vaso de plantas em forma de passarinho. / Create a bird shaped flower pot.
 
