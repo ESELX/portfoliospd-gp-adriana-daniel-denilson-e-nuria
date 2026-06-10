@@ -13,7 +13,7 @@ published: true
 machine_name: ""
 ---
 
-# Cortadora de Vinil Silhouette
+# 
 
 > Frase-síntese: o que é a máquina, para que serve, em que contextos é usada.
 
