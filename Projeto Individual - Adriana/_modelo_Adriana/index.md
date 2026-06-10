@@ -16,9 +16,7 @@ student_number: ""
 
 # Nexo
 
-> Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
-
-![](attachments/imageUtilização.jpg)
+![](attachments/Dihero2.png)
 
 ##### Ligacão entre a Mente e o Movimento 
 
@@ -47,28 +45,57 @@ Uma ou mais tecnologias estudadas em laboratório:
 
 Materiais, software, ficheiros técnicos.
 
-## Processo
+##
+Processo
 ![](attachments/DiEsboço.jpg)
 > ###### Exploração da Forma/exploration of form
 
-### Iteração 1 — [título]
+### **Processo :** 
+![](attachments/Di-Processo02.jpg)
+1) No Adobe Illustator elaborei 3 “Carinhas” que serviram de base para o meu objeto.
+ (**ENG**) In Adobe Illustrator, I created 3 "faces" that served as the basis for my object.
+ 
+![](attachments/Di-Processo02.png)
+![](attachments/Di-Processo03.png)
+2) Exportei o Ficheiro em SVG para o poder abrir no Fusion 360 e começar a modelar as formas de acordo o desenho final.
+ (**ENG**)  I exported the file as an SVG so I could open it in Fusion 360 and start modeling the shapes according to the final design.
+ 
+![](attachments/Di-Processo04.png)
 
-**O que tentei:**
-**O que aprendi:**
+3) Abri o Ficheiro SVG anteriormente salvo e comecei a modelar de acordo o meu desenho, adicionar texturas, arredondar os cantos etc.
+ (**ENG**) I opened the previously saved SVG file and began modeling according to my drawing, adding textures, rounding the corners, etc. 
 
-![](attachments/hero.jpg)
+![](attachments/Prototipagem-processos-01.jpg)![](attachments/Prototipagem-processos-02.jpg)
+![](attachments/Prototipagem-processos-03.jpg)
+![](attachments/Prototipagem-processos-04.jpg)
+4) Já no Fusion, consegui configurar a espessura e tamanho do meu objeto, acrescentar as texturas, e arredondar as cantos.
+ (**ENG**) In Fusion, I was able to configure the thickness and size of my object, add textures, and round the corners.
 
-### Iteração 2 — [título]
+**Link Do Fusion**  [https://a360.co/4e9oZ0l](https://a360.co/4e9oZ0l)
+###### ![](attachments/Render%20Fusion%203D.jpg) Render 3d Fusion 360
 
-...
+![601](attachments/vista%203d.jpg)
+Vistas Ortogonais 
 
+### Iteração 1 — [Processso + Objeto Finalizado]
+
+**O que aprendi:*** 
+Durante a disciplina de Prototipagem aprendi a desenvolver e testar ideias através da criação de protótipos, utilizando ferramentas de modelação e impressão 3D. Compreendi a importância da experimentação, da resolução de problemas e da melhoria contínua para alcançar um produto funcional e adequado às necessidades do utilizador. Esta experiência permitiu-me adquirir competências técnicas e uma melhor compreensão do processo de desenvolvimento de produto.
+
+![](attachments/Prototipagem-processo3D-01%201.jpg)
+![](attachments/Prototipagem-processo3D-02.jpg)
+![697](attachments/Prototipagem-processo3D-03%201.jpg)
 ## Resultado Final
 
 Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
-
+![](attachments/Dicapa.jpg)
+![](attachments/Final.jpg)
+Este projeto consiste em discos modulares impressos em 3D para gestão do stress e ansiedade através do toque. O objeto convida à interação constante com os dedos  rotação, pressão, manipulação transformando impulsos nervosos comuns (mexer nas mãos, rodar objetos) numa ferramenta de autorregulação tátil. O design circular remete para equilíbrio e continuidade, e o tamanho reduzido torna-o discreto e portátil. A interação repetitiva promove foco e presença, criando pausas mentais no dia a dia.
 ## Reflexão
-
 O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+![](attachments/Relflexão_Protoripagem.jpg)**(PT)** Numa próxima iteração, aproveitaria a máquina **Silhouette** para complementar o projeto de uma forma que não foi possível concretizar nesta fase. A ideia seria criar uma embalagem para o objeto, selada com um **sticker personalizado** produzido na Silhouette.
+Este elemento de packaging acrescentaria uma dimensão importante ao projeto, transformando não só o objeto em si, mas também a experiência de o receber e abrir. Um sticker com o logótipo ou um elemento gráfico do projeto funcionaria como selo de identidade, tornando a embalagem mais cuidada, coesa e intencional.
+
+**(ENG)**  In a future iteration, I would use the Silhouette machine to complement the project in a way that wasn't possible to achieve at this stage. The idea would be to create a packaging box for the object, sealed with a custom sticker produced on the Silhouette.
+This packaging element would add an important dimension to the project, transforming not only the object itself, but also the experience of receiving and opening it. A sticker with the logo or a graphic element of the project would act as an identity seal, making the packaging more carefully crafted, cohesive, and intentional.
