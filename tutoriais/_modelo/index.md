@@ -107,8 +107,33 @@ Verificar periodicamente. A câmara integrada (modelos X1/P1) permite monitoriza
    Inspecionar visualmente: aderência das camadas, qualidade de superfície, deformações (warping), stringing (fios de plástico).
 ## 5. Resultado e pós-produção
 
-Que operações ainda têm de ser realizadas sobre o objeto produzido para chegar ao resultado final: lixagem, montagem, acabamentos, ajustes.
+**Acabamentos no objeto impresso** 
 
+**Advertência: Utilizar sempre máscara respiratória e luvas ao utilizar as lixas e primer/tinta de spray!**
+
+1) **Retirar suportes**
+   É necessário remover os suportes com cuidado, certificando que não danifique o objeto.
+
+2) **Preparar a superfície**
+   Utilizar uma lixa grossa d'água (grão 200 - 400) para remover as marcas dos suportes e as linhas de impressão, com movimentos circulares. Evitar lixar cantos e detalhes pequenos.
+   Lixar a seco é possível mas há o risco de derreter o material se este for PLA. Utilizar lixas finas (grão 600 - 1000) para superfícies mais pequenas e para suavizar a superfície do objeto.
+
+3) **Limpeza**
+   Quando estiver pronta, utilizar uma escova e àgua para remover o pó deixado pelas lixas ou que tenha ficado preso. Deixar secar completamente.
+
+4) **Aplicar primer(spray)**
+   Aplicar entre 2 a 4 camadas de primer spray a uma distância de 15 - 20 cm e rápidamente para evitar acúmulos na superfície. Deixar secar completamente entre as demãos. Este passo é crucial para que a tinta seja uniforme e adira ao plástico.
+
+5) **Finalização**
+   Inspecionar o objeto por qualquer imperfeição antes de avançar para a pintura. Caso necessário, utilizar uma lixa de grão 1000 para lixar levemente o primer.
+
+6) **Pintura**
+   Podem ser utilizadas ambas tinta em spray ou aerógrafo ou tinta acrílica.
+   **Spray** - Borrifar a cor em movimentos constantes e camadas finas a 20 cm da peça para a tinta não escorrer. Se houver várias cores, deixar a core base secar 24 horas antes de prosseguir. Recorrer a fita crepe para cobrir as àreas que não serão pintadas e aplicar a segunda cor. Remover a fita enquanto a tinta ainda está húmida para evitar que esta descasque as bordas. Deixar secar e repetir quantas vezes necessário.
+   **Acrílica** - Utilizar pincéis macios e diluír sempre a tinta numa gota de àgua. Aplicar as cores em várias camadas e esperar 10 - 15 minutos entre elas. Para detalhar a pintura, utilizar o método de pincel seco (sujar com tinta e limpar quase tudo com uma tolha de papel, aplicar textura e relevos) ou tinta muito diluida em àgua (para que escorra pela peça para as fendas da impressão e dê um sombreado natural).
+
+7) **Selamento**
+    Quando terminar a pintura, utilizar verniz em spray ou verniz acílico para selar a tinta. Dependendo do verniz, pode dar um acabamento fosco, acetinado ou brilhante.
 ## 6. Recursos e Ficheiros
 
 ##### Softwares: 
