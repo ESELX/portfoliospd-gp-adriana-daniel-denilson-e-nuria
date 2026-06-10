@@ -81,6 +81,7 @@ Vistas Ortogonais
 
 **O que aprendi:*** 
 Durante a disciplina de Prototipagem aprendi a desenvolver e testar ideias através da criação de protótipos, utilizando ferramentas de modelação e impressão 3D. Compreendi a importância da experimentação, da resolução de problemas e da melhoria contínua para alcançar um produto funcional e adequado às necessidades do utilizador. Esta experiência permitiu-me adquirir competências técnicas e uma melhor compreensão do processo de desenvolvimento de produto.
+**(ENG)** During the Prototyping course, I learned to develop and test ideas by creating prototypes using 3D modeling and printing tools. I understood the importance of experimentation, problem-solving, and continuous improvement to achieve a functional product that meets user needs. This experience allowed me to acquire technical skills and a better understanding of the product development process.
 
 ![](attachments/Prototipagem-processo3D-01%201.jpg)
 ![](attachments/Prototipagem-processo3D-02.jpg)

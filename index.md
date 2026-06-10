@@ -4,7 +4,7 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Grupo
+hero_title: ADDN
 hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
@@ -26,11 +26,12 @@ members:
 
 ## Elementos do Grupo
 
-| Número  | Nome          |
-| ------- | ------------- |
-| 2024316 | Adriana Gomes |
-| 20YYYYY | Aluno B       |
-| 20ZZZZZ | Aluno C       |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2024316 | Adriana Gomes    |
+| 2022462 | Daniel Gonçalves |
+| 20ZZZZZ | Denilson Correia |
+| 20ZZZZ  | Núria            |
 
 ---
 
@@ -45,14 +46,14 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <div class="gallery-grid">
 
   <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 1</h3>
+    <img src="tutoriais/_modelo/attachments/Capa.JPG" alt="" />
+    <h3>Bambu Lab A1 mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
   <a class="gallery-card" href="tutoriais/_modelo/">
-    <img src="tutoriais/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome da Máquina 2</h3>
+    <img src="tutoriais/_modelo/attachments/IMG_5006 1.jpeg" alt="" />
+    <h3>Cortadora de Vinil Silhouette</h3>
     <p>Tutorial detalhado</p>
   </a>
 
@@ -78,7 +79,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   </a>
   <a class="gallery-card" href="Projeto Individual - Daniel/_modelo_Daniel/">
     <img src="Projeto Individual - Daniel/_modelo_Daniel/attachments/LebreT.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
+    <h3>Dois em UM</h3>
     <p>Daniel Gonçalves</p>
   </a>
     <a class="gallery-card" href="Projeto Individual -Denilson/_modelo_Denilson/">
@@ -88,7 +89,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   </a>
     <a class="gallery-card" href="Projeto Individual - Nuria/_modelo_Nuria/">
     <img src="Projeto Individual - Nuria/_modelo_Nuria/attachments/hero.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
+    <h3>Birdie Vase</h3>
     <p>Núria</p>
 
 </div>
