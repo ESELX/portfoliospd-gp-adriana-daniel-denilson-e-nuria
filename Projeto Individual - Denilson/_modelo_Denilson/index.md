@@ -3,7 +3,7 @@ title: Suporte de headphones
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: "![](attachments/referencia.jpg)"
+hero_image: "![](imagem%20referencia.jpg)"
 hero_title: Suporte de headphones
 hero_subtitle: Denilson Jorge Correias · 2025-26
 hero_height: 80vh
@@ -80,7 +80,7 @@ O que aprendi: A simplicidade de um modelo pode cria uma vantagem significativa,
 
 What I learned: The simplicity of a model can create a significant advantage, especially when material properties are limited. A more straightforward solution resulted in a part that was easier to print and equally functional.
 
-![](attachments/prototipo.png)
+![](attachments/Prototipo.png)
 
 Render do projeto
 
