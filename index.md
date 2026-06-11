@@ -30,7 +30,7 @@ members:
 | ------- | ---------------- |
 | 2024316 | Adriana Gomes    |
 | 2022462 | Daniel Gonçalves |
-| 20ZZZZZ | Denilson Correia |
+| 2024571 | Denilson Correia |
 | 20ZZZZ  | Núria            |
 
 ---
@@ -83,7 +83,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <p>Daniel Gonçalves</p>
   </a>
     <a class="gallery-card" href="Projeto Individual - Denilson/_modelo_Denilson/">
-    <img src="Projeto Individual - Denilson/_modelo_Denilson/attachments/imagem referencia.jpg" alt="" />
+    <img src="Projeto Individual - Denilson/_modelo_Denilson/attachments/prototipo 1.png" alt="" />
     <h3>Suporte de Headphones</h3>
     <p>Denilson Correia</p>
   </a>
