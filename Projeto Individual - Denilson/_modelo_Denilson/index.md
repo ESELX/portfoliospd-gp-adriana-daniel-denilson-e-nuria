@@ -3,7 +3,7 @@ title: Suporte de headphones
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: "![](attachments/imagem%20referencia.jpg)"
+hero_image: "![](attachments/referencia.jpg)"
 hero_title: Suporte de headphones
 hero_subtitle: Denilson Jorge Correias · 2025-26
 hero_height: 80vh
