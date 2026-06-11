@@ -50,6 +50,7 @@ Uma ou mais tecnologias estudadas em laboratório:
 
 Materiais, software, ficheiros técnicos.
 
+Link ficheiro Fusion 360 : https://a360.co/4wZUHnW
 ## Processo
 
 ![](attachments/esboços.jpg)
