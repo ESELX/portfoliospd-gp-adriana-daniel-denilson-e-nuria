@@ -80,7 +80,7 @@ O que aprendi: A simplicidade de um modelo pode cria uma vantagem significativa,
 
 What I learned: The simplicity of a model can create a significant advantage, especially when material properties are limited. A more straightforward solution resulted in a part that was easier to print and equally functional.
 
-![](attachments/Prototipo.png)
+![](attachments/prototipo.png)
 
 Render do projeto
 

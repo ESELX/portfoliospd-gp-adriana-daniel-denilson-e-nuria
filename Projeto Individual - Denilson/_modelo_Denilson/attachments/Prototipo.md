@@ -1,1 +1,1 @@
-![](attachments/prototipo%201.png)
+![](prototipo%201.png)
