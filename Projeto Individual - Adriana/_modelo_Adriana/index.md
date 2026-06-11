@@ -41,7 +41,7 @@ Uma ou mais tecnologias estudadas em laboratório:
 - [x] Impressão 3D
 - [ ] CNC
 - [ ] Micro:bit / computação física
-- [ ] Outras —
+- [x] Modelação 3D no Autodesk Fusion 360
 
 Materiais, software, ficheiros técnicos.
 ## Processo 
