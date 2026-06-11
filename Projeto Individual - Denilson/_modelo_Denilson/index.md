@@ -3,7 +3,7 @@ title: Suporte de headphones
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: "![](imagem%20referencia.jpg)"
+hero_image: "![](attachments/referencia.jpg)"
 hero_title: Suporte de headphones
 hero_subtitle: Denilson Jorge Correias · 2025-26
 hero_height: 80vh
@@ -67,7 +67,7 @@ O que aprendi: O encaixe projetado era simples porem não era adequado para o PL
 
 What I learned: The designed fitting was simple but not suitable for PLA, as the material does not have enough flexibility to allow for a secure fit without risk of breakage. Furthermore, correcting this problem would require completely redesigning the model, so I opted to start over with a different approach.
 
-![](attachments/prototipo 1.png)
+![](attachments/prototipo%201.png)
 Render do projeto
 
 ### Iteração 2 — Versão final

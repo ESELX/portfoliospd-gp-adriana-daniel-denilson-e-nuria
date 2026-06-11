@@ -83,8 +83,8 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <p>Daniel Gonçalves</p>
   </a>
     <a class="gallery-card" href="Projeto Individual - Denilson/_modelo_Denilson/">
-    <img src="Projeto Individual - Denilson/_modelo_Denilson/attachments/hero.jpg" alt="" />
-    <h3>Nome do Projeto</h3>
+    <img src="Projeto Individual - Denilson/_modelo_Denilson/attachments/imagem referencia.jpg" alt="" />
+    <h3>Suporte de Headphones</h3>
     <p>Denilson Correia</p>
   </a>
     <a class="gallery-card" href="Projeto Individual - Nuria/_modelo_Nuria/">
