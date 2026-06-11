@@ -3,7 +3,7 @@ title: Dois em Um
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/Compl.jpeg
 hero_title: Dois em Um
 hero_subtitle: Daniel Gonçalves · 2025-26
 hero_height: 80vh
@@ -16,8 +16,6 @@ student_number: ""
 
 
 # Dois em Um
-
-> Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
 
 ![](attachments/LebreT.jpg)
 
@@ -53,27 +51,27 @@ Uma ou mais tecnologias estudadas em laboratório:
 Materiais, software, ficheiros técnicos.
 
 ## Processo
+
 ![](attachments/esboços.jpg)
 Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 
-### Iteração 1 — [título]
+### Iteração 1
 
 **O que tentei:** Vários locais para os encaixes até chegar aos ideais.
 **O que aprendi:** Novas formas de parametrização.
 
 ![](attachments/Prancha.jpg)
 
-### Iteração 2 — [título]
-
-...
-
 ## Resultado Final
 
-Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
 ![](attachments/Desm.jpeg)
 ![](attachments/compl.jpeg)
 
+O resultado final deste projeto materializa-se num brinquedo modular de encaixe, integralmente desenvolvido em derivados de madeira. Inspirado na clássica fábula "A Lebre e a Tartaruga", o design explora a fundo os conceitos de transformação, dualidade e ritmo através de formas geométricas minimalistas e funcionais. A essência do projeto reside na reinterpretação abstrata da narrativa, afastando-se de uma representação literal para sintetizar os animais nas suas linhas de força mais marcantes. Assim, a lebre ganha vida através de uma composição vertical e angular que transmite agilidade e prontidão, enquanto o mesmo conjunto de peças, quando reorganizado, encerra o potencial para dar lugar à silhueta horizontal, estável e compacta da tartaruga.
+
+
+The final outcome of this project materializes as a modular interlocking toy, fully developed from wood derivatives. Inspired by the classic fable 'The Tortoise and the Hare', the design thoroughly explores the concepts of transformation, duality, and rhythm through minimalist and functional geometric shapes. The essence of the project lies in the abstract reinterpretation of the narrative, moving away from a literal representation to synthesize the animals into their most striking lines of force. Thus, the hare comes to life through a vertical and angular composition that conveys agility and alertness, while the very same set of pieces, when reorganized, holds the potential to give rise to the horizontal, stable, and compact silhouette of the tortoise.
 ## Reflexão
 
 Podia ter explorado mais profundamente diferentes formas de encaixe, não apenas como solução funcional, mas também como uma oportunidade para investigar variações formais e estruturais. Teria sido útil desenvolver mais testes experimentais, de modo a experimentar diferentes geometrias, tolerâncias e sistemas de ligação entre peças, permitindo perceber melhor como pequenas alterações influenciam o resultado final.
